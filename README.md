@@ -24,7 +24,7 @@ BOM DIA, BOA TARDE, BOA NOITE, MEU NOME É LEONARDO E VOCÊ ESTA NO MEU GITHUB
  
   <a href="https://www.linkedin.com/in/leonardo-begnossi-41580a127/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/MadOrchid/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MadOrchid/MadOrchid/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 - <!---
