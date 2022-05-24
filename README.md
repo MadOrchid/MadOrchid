@@ -1,4 +1,7 @@
-BOM DIA, BOA TARDE, BOA NOITE, MEU NOME É LEONARDO E VOCÊ ESTA NO MEU GITHUB
+
+Estudante de Desenvolvimento Web iniciando a carreira como desenvolvedor
+
+
 ##
  <a href="https://github.com/MadOrchid">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MadOrchid&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
