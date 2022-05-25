@@ -1,5 +1,5 @@
 
-Estudante de Desenvolvimento Web iniciando a carreira como desenvolvedor Mobile
+Estudante de Desenvolvimento Web 
 
 
 ##
